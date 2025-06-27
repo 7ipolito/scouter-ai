@@ -1,0 +1,8 @@
+defaults:
+  - default
+
+_target_: tracklab.wrappers.ExternalVideo
+
+# Coloque o caminho completo para o seu vídeo aqui
+# Exemplo: video_path: "/Users/7ipolito/Desktop/meu_video.mp4"
+video_path: "/Users/7ipolito/Desktop/PythonProject/neymar.mp4" 
